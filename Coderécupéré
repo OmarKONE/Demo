@@ -2,3 +2,11 @@ création d'un fichier pour stocker du code
 source clone 
 Partage du code grace au gist.
 voir et copier pour comprendre at améliorer
+
+gem 'pg' #postgresgem 'pry-rails' 
+#pry for debugginggem 'annotate' 
+#annotate modelsgem 'rails-footnotes' 
+#for debugginggem 'ipsum' 
+#adds ipsum to seed filegem 'bcrypt-ruby' 
+#password encryptiongem 'httparty'
+#for getting urls, parsing data
